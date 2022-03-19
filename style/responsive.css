@@ -88,6 +88,10 @@
     }
     
     .conteudo-secundario-escrito-paragrafo{
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
         padding-left: 20px;
     }
     .conteudo-secundario-escrito-titulo{
